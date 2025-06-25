@@ -1,8 +1,16 @@
 body{
-    color: white;
-    font-color: black;
- font-family: font-family:Chakra Petch;
+color: white;
+background-color: black;  
+font-family:"Chakra Petch", sans-serif; 
 margin: 0px;
 }
-border: 2px rgb(42,122,228);
+h1 {
+    font-size: 40px;
 }
+p {
+    font-size: 20px;
+}
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+}
+vqn-uuqp-zpm
