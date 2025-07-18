@@ -9,10 +9,17 @@ h1 {
 }
 p {
     font-size: 20px;
+    font-family: cursive;
 }
 header{
     border-bottom: solid 2px rgb(42, 122, 228);
     margin: 20px;
     font-size: 32px;
     color: rgb(42,122,228)
+}
+section{
+    background: rgb(184, 156, 213);
+    padding-bottom: 80PX;
+    padding-top: 80PX;
+    
 }
